@@ -1,4 +1,4 @@
-module github.com/Ryanshinta/WebGo
+module github.com/Ryanshinta/webGo
 
 go 1.20
 
